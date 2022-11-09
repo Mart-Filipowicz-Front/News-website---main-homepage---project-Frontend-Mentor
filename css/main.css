@@ -66,7 +66,7 @@ body {
   margin: 1em;
 }
 .header__img {
-  background-image: url("/img/image-web-3-mobile.jpg");
+  background-image: url("../img/image-web-3-mobile.jpg");
   background-size: cover;
   width: 100%;
   margin-top: 12em;
@@ -234,7 +234,7 @@ body {
   }
   .header__img {
     width: 100%;
-    background-image: url("/img/image-web-3-desktop.jpg");
+    background-image: url("../img/image-web-3-desktop.jpg");
     background-size: cover;
   }
   .header__content {
